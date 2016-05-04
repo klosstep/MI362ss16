@@ -1,7 +1,7 @@
 Stephen Klos 
 MI 362 Web Administration
 
-Final Project URL - 
+Final Project Landing Page (Heroku) URL - http://www.stephenklos.me
 Final Project PHP Web App URL - http://www.stephenklosweb.com/to-do/index.php
 
 Completed Items Checklist
