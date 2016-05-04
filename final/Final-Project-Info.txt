@@ -1,0 +1,17 @@
+Stephen Klos 
+MI 362 Web Administration
+
+Final Project URL - 
+Final Project PHP Web App URL - http://www.stephenklosweb.com/to-do/index.php
+
+Completed Items Checklist
+- 100 - Hosted on Heroku (Required) - Landing page (http://www.stephenklos.me/ or https://fathomless-earth-91192.herokuapp.com/) is hosted on Heroku 
+- 100 - Custom domain name (Required) - Landing page (http://www.stephenklos.me/) and web app (http://www.stephenklosweb.com/to-do/index.php) have own custom domains 
+- 100 - Instructor/discretionary (Required) - Pending
+- 600 - Custom programming that matches your Heroku instance (PHP) - To-Do List Web App is coded in PHP and CSS3
+- 200 - Custom CSS or Bootstrap for design (all pages) - Landing page and Web App are using Boostrap
+- 50 - Integrate a JavaScript component - jQuery fade-in on landing page (https://fathomless-earth-91192.herokuapp.com/)
+- 50 - Use a 3rd party font icon like FontAwesome - Web App (http://www.stephenklosweb.com/to-do/index.php) is using Font-Awesome
+
+Notes
+So I originally tried building my To-Do List web app on Heroku using the ClearDB add-on but I could not configure the settings properly in order to establish a database needed for the web app. I tried following the documentation provided by Heroku and ClearDB but it wasn't detailed enough for what I was trying to figure out.  I also used Stack Exchange and other forums to try and set up the database but I still couldn't find enough documentation on those sites either.  I learned some PHP/SQL this year and also learned how to set up a database with PHPMyAdmin so that's why my app is hosted on a different site from the landing page (the heroku page). Because I am more familiar in coding PHP and setting up databases in cPanel.  Yes I could have built a boring static site and hosted it on Heroku to get the 600 points, but I wanted to make something dynamic.  
